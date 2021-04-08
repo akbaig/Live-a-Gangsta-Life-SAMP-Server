@@ -54,4 +54,4 @@ Reports are reported on the discord (admin activity such as kick can also be tog
 ### Spy-Mode: 
 Monitoring everything (if you want to keep an eye on extra details - only for admins) - Higher admins can monitor more things than lower admins.
 ### Battle-Royale: 
-Integrated separately (not completed)
+Integrated separately (Incomplete)
