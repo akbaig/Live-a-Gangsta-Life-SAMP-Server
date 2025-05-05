@@ -13,7 +13,7 @@ The project which led me into programming itself, started in 2016.
 
 **LIVE A GANGSTA LIFE** (PRE-EMINENT GANG WARS)
 - **SAMP Server Address:** 185.223.30.113:7777
-- **Invite link to the official Discord server of LA-GL:** [https://discord.gg/rZGhr3V](http://discord.gg/8HQdZzMbkR)
+- **Invite link to the official Discord server of LA-GL:** [https://discord.gg/8HQdZzMbkR](http://discord.gg/8HQdZzMbkR)
 
 ## Some features of LA-GL:
 ### Gang Wars: 
